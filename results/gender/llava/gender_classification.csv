@@ -1,0 +1,301 @@
+file,gender,split,raw_response,sanitized
+train/women/0.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/1.jpg,woman,train,"The person in the image appears to be a woman based on visual cues such as facial features, hairstyle, and clothing.",woman
+train/women/2.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/3.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/4.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/5.jpg,woman,train,"The person in the image appears to be a woman with short hair, wearing a sleeveless top.",woman
+train/women/6.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/7.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/8.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/9.jpg,woman,train,The person in the image is a woman.,woman
+train/women/10.jpg,woman,train,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+train/women/11.jpg,woman,train,The person in the image is a woman.,woman
+train/women/12.jpg,woman,train,"The person in the image appears to be a woman based on visible facial features such as the shape of the face, eyebrows, and hairstyle.",woman
+train/women/13.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/14.jpg,woman,train,The individual in the image appears to be a woman.,woman
+train/women/15.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/16.jpg,woman,train,This is an image of a woman.,woman
+train/women/17.jpg,woman,train,"The person in the image appears to be female based on facial features such as eyebrows, lips, and other characteristics that are typically associated with women.",female
+train/women/18.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/19.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/20.jpg,woman,train,The person in the image appears to be a young female.,female
+train/women/21.jpg,woman,train,"The person in the image appears to be male, as indicated by the presence of facial hair and other features that are typically associated with men.",male
+train/women/22.jpg,woman,train,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+train/women/23.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/24.jpg,woman,train,The person in the image is a woman.,woman
+train/women/25.jpg,woman,train,The person in the image appears to be female.,female
+train/women/26.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/27.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/28.jpg,woman,train,The person in the image appears to be female.,female
+train/women/29.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/30.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/31.jpg,woman,train,The person in the image appears to be a female.,female
+train/women/32.jpg,woman,train,"The person in the image appears to be a woman based on visible physical characteristics such as facial features, hair style, and clothing.",woman
+train/women/33.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/34.jpg,woman,train,The person in the image is a woman.,woman
+train/women/35.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/36.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/37.jpg,woman,train,The person in the image is a woman.,woman
+train/women/38.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/39.jpg,woman,train,"The person in the image appears to be wearing what could be interpreted as traditional women's clothing, such as a hijab or headscarf, which is often associated with modesty and religious observance by some Muslim women. Additionally, there are no visible facial features that would typically distinguish between male and female individuals. Therefore, based on the visual information provided, it could be inferred that this person may likely identify as a woman. It's important to note that gender identity is a personal and private matter and should not be assumed or defined solely by appearance.",male
+train/women/40.jpg,woman,train,The person in the image appears to be female.,female
+train/women/41.jpg,woman,train,"The individual in the image appears to be a female, as indicated by facial features such as eyebrows, lips, and chin which are typically associated with female characteristics.",female
+train/women/42.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/43.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/44.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/45.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/46.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/47.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/48.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/49.jpg,woman,train,The individual in the image appears to be male.,male
+train/women/50.jpg,woman,train,"The person in the image appears to be a woman based on facial features such as the shape of her face, the presence of visible eyelashes, and other characteristics that are typically associated with women.",woman
+train/women/51.jpg,woman,train,"This is an image of a person who appears to be a female with visible facial features such as eyeglasses, hair, and clothing that suggest she is wearing casual attire suitable for home wear. The individual's appearance does not provide clear evidence of a specific gender identity beyond the traditional binary understanding of male or female. It's important to respect individuals' self-identification and avoid assumptions based on visual cues alone.",female
+train/women/52.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/53.jpg,woman,train,The individual in the image appears to be a woman.,woman
+train/women/54.jpg,woman,train,The person in the image appears to be female.,female
+train/women/55.jpg,woman,train,The individual in the image is a woman.,woman
+train/women/56.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/57.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/58.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/59.jpg,woman,train,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+train/women/60.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/61.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/62.jpg,woman,train,"The person in the image appears to be a woman, based on her facial features and hairstyle.",woman
+train/women/63.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/64.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/65.jpg,woman,train,"The person in the image appears to be female based on the features visible such as facial structure, hair, and clothing.",female
+train/women/66.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/67.jpg,woman,train,"The person in the image appears to be a woman, as indicated by her facial features and the presence of what looks like breasts.",woman
+train/women/68.jpg,woman,train,"The person in the image appears to be a woman, based on facial features such as eyebrows, lips, and overall appearance.",woman
+train/women/69.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/70.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/71.jpg,woman,train,"The person in the image appears to be a woman based on her facial features, hairstyle, and overall appearance.",woman
+train/women/72.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/73.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/74.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/75.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/76.jpg,woman,train,The individual in the image appears to be female.,female
+train/women/77.jpg,woman,train,"The person in the image appears to be a woman with short hair, wearing a dark top.",woman
+train/women/78.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/79.jpg,woman,train,"The person in the image appears to be a woman based on facial features such as the shape of the face, eyebrows, lips, and other distinguishing traits that are commonly associated with female appearance.",woman
+train/women/80.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/81.jpg,woman,train,"The person in the image appears to be a woman based on visible features such as facial structure, hair style, and clothing.",woman
+train/women/82.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/83.jpg,woman,train,"The person in the image appears to be a woman, based on facial features that are commonly associated with women. However, without more context or information about the individual's identity or personal characteristics, it is not possible for me to confirm their gender definitively.",woman
+train/women/84.jpg,woman,train,This is an image of a person who appears to be a woman.,woman
+train/women/85.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/86.jpg,woman,train,"The person in the image appears to be a woman based on her facial features, hairstyle, and attire.",woman
+train/women/87.jpg,woman,train,"The person in the image appears to be a woman, as indicated by the facial features and the overall appearance that is typically associated with female individuals.",woman
+train/women/88.jpg,woman,train,"The individual in the image appears to be female, as indicated by the features such as facial hair, body shape, and clothing style which are more commonly associated with women.",female
+train/women/89.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/90.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/91.jpg,woman,train,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+train/women/92.jpg,woman,train,The person in the image is a woman.,woman
+train/women/93.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/94.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/95.jpg,woman,train,"The person in the image is identified as female based on standard visual cues such as facial features, hairstyle, and clothing.",female
+train/women/96.jpg,woman,train,The individual in the image appears to be a woman based on her facial features and overall appearance.,woman
+train/women/97.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/98.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/99.jpg,woman,train,"The individual in the image appears to be a woman based on facial features such as eyebrows, cheekbones, and jawline.",woman
+train/women/100.jpg,woman,train,"The person in the image appears to be a woman, as indicated by features such as facial structure, hairstyle, and other physical characteristics that are typically associated with women.",woman
+train/women/101.jpg,woman,train,"The person in the image appears to be a woman, as indicated by features such as facial hair, which is not typically associated with men's appearances.",woman
+train/women/102.jpg,woman,train,The person in the image appears to be female.,female
+train/women/103.jpg,woman,train,The person in the image appears to be female.,female
+train/women/104.jpg,woman,train,The person in the image is a woman.,woman
+train/women/105.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/106.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/107.jpg,woman,train,The person in the image appears to be a woman.,woman
+train/women/108.jpg,woman,train,The person in the image appears to be female.,female
+train/women/109.jpg,woman,train,The person in the image appears to be a woman.,woman
+test/women/110.jpg,woman,test,"The person in the image appears to be a woman, as indicated by visible physical characteristics such as facial features, hairstyle, and clothing that are typically associated with women.",woman
+test/women/111.jpg,woman,test,"The person in the image appears to be a female with glasses, wearing a white top.",female
+test/women/112.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/113.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/114.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/115.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/116.jpg,woman,test,"The person in the image appears to be female based on visual cues such as facial features, hairstyle, and clothing that are commonly associated with women.",female
+test/women/117.jpg,woman,test,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+test/women/118.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/119.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/120.jpg,woman,test,"The individual in the image appears to have features commonly associated with women, such as facial symmetry, eyebrow shape, and hairstyle. Based on these visual cues, it is likely that the person in the photo is female.",female
+test/women/121.jpg,woman,test,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+test/women/122.jpg,woman,test,"The person in the image appears to be female, based on visual cues such as facial features, clothing, and hairstyle.",female
+test/women/123.jpg,woman,test,The person in the image is a woman.,woman
+test/women/124.jpg,woman,test,The person in the image appears to be a young adult female.,female
+test/women/125.jpg,woman,test,The person in the image is a woman.,woman
+test/women/126.jpg,woman,test,The individual in the image appears to be a woman.,woman
+test/women/127.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/128.jpg,woman,test,"The person in the image appears to be a woman, as indicated by visible facial features such as the presence of breasts, eyelashes, and other characteristics typically associated with women.",woman
+test/women/129.jpg,woman,test,"The person in the image appears to be a young female with short hair, wearing what looks like a red sports jersey.",female
+test/women/130.jpg,woman,test,The person in the image appears to be a female with long hair.,female
+test/women/131.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/132.jpg,woman,test,"The person in the image appears to be a woman based on her facial features, such as the shape of the face, the presence of breasts, and the overall appearance.",woman
+test/women/133.jpg,woman,test,The person in the image is a woman.,woman
+test/women/134.jpg,woman,test,The person in the image appears to be a woman based on her facial features and hairstyle.,woman
+test/women/135.jpg,woman,test,"The person in the image appears to be a woman, as indicated by the facial features such as eyebrows, eyes, lips, and jawline.",woman
+test/women/136.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/137.jpg,woman,test,"The person in the image appears to be a woman based on her facial features, hairstyle, and attire.",woman
+test/women/138.jpg,woman,test,"The person in the image appears to be a woman based on her facial features, hairstyle, and clothing.",woman
+test/women/139.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/140.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/141.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/142.jpg,woman,test,The person in the image is a woman.,woman
+test/women/143.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/144.jpg,woman,test,The person in the image appears to be a woman based on facial features and hairstyle.,woman
+test/women/145.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/146.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/147.jpg,woman,test,"The individual in the image appears to have features that are commonly associated with male characteristics, such as a short haircut and facial hair. However, without more context, it's challenging to definitively determine their gender identity. It's important to respect each person's self-identification and use the language they prefer for themselves. If this person has shared information about their gender identity with you or if there are visual cues that suggest a specific gender identity, that would be most appropriate to follow.",male
+test/women/148.jpg,woman,test,The person in the image appears to be a woman.,woman
+test/women/149.jpg,woman,test,The person in the image appears to be a woman.,woman
+train/men/0.jpg,man,train,The person in the image appears to be male.,male
+train/men/1.jpg,man,train,"The individual in the image appears to be a male with facial hair, wearing glasses, and dressed in casual attire.",male
+train/men/2.jpg,man,train,The person in the image appears to be a male.,male
+train/men/3.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing glasses and a casual shirt.",male
+train/men/4.jpg,man,train,"The person in the image appears to be a male with facial hair, dressed in casual attire that could suggest it's a relaxed setting.",male
+train/men/5.jpg,man,train,"The person in the image appears to be male, based on the visible features such as facial hair, broad shoulders, and the overall body shape.",male
+train/men/6.jpg,man,train,"The person in the image appears to be male, with facial features such as stubble, eyebrow shape, and jawline that are commonly associated with men.",male
+train/men/7.jpg,man,train,The person in the image appears to be a male.,male
+train/men/8.jpg,man,train,The person in the image appears to be male.,male
+train/men/9.jpg,man,train,"The individual in the image appears to be a male with facial hair, wearing dark clothing.",male
+train/men/10.jpg,man,train,"The person in the image appears to be male based on visual cues such as facial features, hair style, and clothing that are typically associated with males.",male
+train/men/11.jpg,man,train,The person in the image appears to be a male with short hair and a neutral facial expression.,male
+train/men/12.jpg,man,train,The individual in the image appears to be male.,male
+train/men/13.jpg,man,train,"The individual in the image is identified as male based on their facial features, hairstyle, clothing, and other visual cues.",male
+train/men/14.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing a blue shirt.",male
+train/men/15.jpg,man,train,The person in the image appears to be a male with facial hair.,male
+train/men/16.jpg,man,train,The person in the image appears to be male.,male
+train/men/17.jpg,man,train,"The person in the image appears to be male, as indicated by facial features such as stubble, broad shoulders, and a distinctly masculine jawline.",male
+train/men/18.jpg,man,train,"The person in the image appears to be a male with short hair, facial stubble, and a beard.",male
+train/men/19.jpg,man,train,The person in the image appears to be male.,male
+train/men/20.jpg,man,train,The person in the image appears to be male.,male
+train/men/21.jpg,man,train,"The person in the image appears to be male, as indicated by visible facial features such as stubble, a beard, and a distinctly masculine jawline.",male
+train/men/22.jpg,man,train,The person in the image appears to be a male with facial hair.,male
+train/men/23.jpg,man,train,The person in the image appears to be male.,male
+train/men/24.jpg,man,train,The person in the image appears to be a male.,male
+train/men/25.jpg,man,train,The person in the image appears to be male.,male
+train/men/26.jpg,man,train,"The person in the image appears to be male based on visible physical features such as facial hair, broad shoulders, and chest development.",male
+train/men/27.jpg,man,train,"The individual in the image appears to be a male with a shaved head and visible stubble on his face, which typically indicates masculinity. If you are looking for assistance in categorizing the gender based on appearance alone, I would say that this person is male.",male
+train/men/28.jpg,man,train,"The individual in the image appears to be a male with facial hair, wearing a high-visibility vest, which is often associated with safety or work attire.",male
+train/men/29.jpg,man,train,The person in the image appears to be male.,male
+train/men/30.jpg,man,train,The person in the image appears to be a male.,male
+train/men/31.jpg,man,train,The individual in the image is male.,male
+train/men/32.jpg,man,train,The individual in the image appears to be a male adult.,male
+train/men/33.jpg,man,train,The person in the image appears to be male.,male
+train/men/34.jpg,man,train,"The person in the image appears to be male, as indicated by visible facial hair and other features that are typically associated with male characteristics.",male
+train/men/35.jpg,man,train,The person in the image appears to be male.,male
+train/men/36.jpg,man,train,"The person in the image appears to be a male, as indicated by the facial features and the presence of visible stubble on the face.",male
+train/men/37.jpg,man,train,The individual in the image appears to be male.,male
+train/men/38.jpg,man,train,"The person in the image appears to be male based on facial features, hairstyle, and clothing such as the shirt and short hair.",male
+train/men/39.jpg,man,train,The individual in the image appears to be male.,male
+train/men/40.jpg,man,train,The individual in the image appears to be male.,male
+train/men/41.jpg,man,train,"The person in the image appears to be male based on facial features such as the presence of stubble, the shape of the jawline, and other characteristics that are typically associated with male traits.",male
+train/men/42.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing glasses and a sweater.",male
+train/men/43.jpg,man,train,The person in the image appears to be male.,male
+train/men/44.jpg,man,train,The person in the image appears to be male.,male
+train/men/45.jpg,man,train,"The individual in the image appears to be a male with facial hair, wearing what looks like casual attire.",male
+train/men/46.jpg,man,train,"The person in the image appears to be male, as indicated by their facial features such as the presence of a beard and mustache, which are more commonly associated with men.",male
+train/men/47.jpg,man,train,The individual in the image appears to be male.,male
+train/men/48.jpg,man,train,"The individual in the image appears to have short hair and is wearing what could be considered traditionally male clothing, such as jeans. However, without more information or context, it's not possible to definitively categorize gender. Gender identity can be complex and may not always align with traditional definitions. If this person identifies as a man, they would likely fit into the category of ""male"" in terms of gender.",male
+train/men/49.jpg,man,train,"The person in the image is wearing traditional Islamic attire, including a white skullcap (keffiyeh) and a long robe. This style of clothing is typically associated with men in many Muslim cultures. Therefore, based on the visual cues, it appears that this is a male individual.",male
+train/men/50.jpg,man,train,"The person in the image appears to be a male, as indicated by the facial features such as the presence of a beard and mustache.",male
+train/men/51.jpg,man,train,"The person in the image appears to be a male, based on facial features commonly associated with males such as the presence of facial hair, jawline, and overall body structure.",male
+train/men/52.jpg,man,train,The person in the image appears to be a male.,male
+train/men/53.jpg,man,train,The individual in the image appears to be male.,male
+train/men/54.jpg,man,train,"The individual in the image appears to be male based on facial features and typical masculine characteristics, such as the presence of a beard and more angular facial structure.",male
+train/men/55.jpg,man,train,"The person in the image appears to have short hair, which is often associated with male individuals. However, without distinct facial features that are typically associated with one gender over the other (such as beard growth, eyebrow shape, etc.), it's difficult to definitively categorize the gender of this individual based solely on their appearance. In cases where it's not clear from an image alone, one might consider using a person's name or identifying information if it is known. If there are no other indicators and you need to make an educated guess for any reason, such as categorizing the individual in a professional context like a social media profile or an artistic portrayal, you could use ""male"" as the most accurate description based on what's visible. However, it's important to be aware that gender is not solely determined by physical appearance and can also include personal identity and expression.",male
+train/men/56.jpg,man,train,The person in the image appears to be male.,male
+train/men/57.jpg,man,train,"The person in the image appears to be male, as indicated by the facial features and hairstyle that are commonly associated with men.",male
+train/men/58.jpg,man,train,"Based on the image provided, it appears that the individual is a male with facial hair.",male
+train/men/59.jpg,man,train,"The person in the image appears to be a male with short hair, wearing a t-shirt.",male
+train/men/60.jpg,man,train,The person in the image appears to be a male.,male
+train/men/61.jpg,man,train,"The person in the image appears to be a male with facial hair, including a beard and mustache. He is wearing a patterned shirt that could be considered unisex or traditionally masculine attire. Without more context or clear visual cues, it's difficult to definitively categorize his gender identity. It's important to respect individuals' self-identification and not make assumptions based on appearance alone.",male
+train/men/62.jpg,man,train,The person in the image appears to be a male with facial hair.,male
+train/men/63.jpg,man,train,The person in the image appears to be male.,male
+train/men/64.jpg,man,train,The person in the image appears to be male.,male
+train/men/65.jpg,man,train,The person in the image appears to be male.,male
+train/men/66.jpg,man,train,The person in the image appears to be male.,male
+train/men/67.jpg,man,train,The person in the image appears to be male.,male
+train/men/68.jpg,man,train,"The individual in the image appears to be a male based on visible features such as facial hair, hairstyle, and clothing.",male
+train/men/69.jpg,man,train,The individual in the image appears to be a male with facial hair.,male
+train/men/70.jpg,man,train,"The individual in the image appears to be male, as indicated by the facial features such as the presence of stubble, the shape of the jawline, and the overall appearance which is commonly associated with men.",male
+train/men/71.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing dark clothing.",male
+train/men/72.jpg,man,train,"The individual in the image appears to have characteristics that could be associated with either male or female traits, which can sometimes occur due to personal style choices or the effects of certain makeup and grooming techniques. Without distinct facial features that are typically associated with one gender over another, it's not possible to confidently determine the gender of this person from this image alone.",male
+train/men/73.jpg,man,train,The individual in the image appears to be male.,male
+train/men/74.jpg,man,train,The person in the image appears to be male.,male
+train/men/75.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing glasses and a red shirt.",male
+train/men/76.jpg,man,train,"The person in the image appears to be a male with facial hair, which is typically associated with adult males.",male
+train/men/77.jpg,man,train,"The individual in the image appears to be male, based on the visible facial features such as beard growth, eyebrows, and the shape of the face.",male
+train/men/78.jpg,man,train,The person in the image appears to be a male.,male
+train/men/79.jpg,man,train,The person in the image appears to be a male with facial hair.,male
+train/men/80.jpg,man,train,The person in the image appears to be male.,male
+train/men/81.jpg,man,train,"The individual in the image appears to be a male with facial hair, wearing what looks like traditional South Asian clothing.",male
+train/men/82.jpg,man,train,The individual in the image is a male.,male
+train/men/83.jpg,man,train,"The person in the image appears to be a male with facial features that are traditionally associated with males, such as a beard and a more angular face structure. If you have any further questions about the image, feel free to ask!",male
+train/men/84.jpg,man,train,The person in the image appears to be male.,male
+train/men/85.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing what seems to be a dark-colored top.",male
+train/men/86.jpg,man,train,"The individual in the image is wearing clothing commonly associated with men, such as a t-shirt and shorts, and has facial features that are typically considered male. Therefore, I would categorize the gender of this person as male.",male
+train/men/87.jpg,man,train,"The individual in the image appears to be male, as indicated by the facial features and hairstyle typically associated with males.",male
+train/men/88.jpg,man,train,The person in the image appears to be a male.,male
+train/men/89.jpg,man,train,The person in the image appears to be male.,male
+train/men/90.jpg,man,train,The person in the image appears to be male.,male
+train/men/91.jpg,man,train,The person in the image appears to be male.,male
+train/men/92.jpg,man,train,The person in the image appears to be a male.,male
+train/men/93.jpg,man,train,The person in the image appears to be male.,male
+train/men/94.jpg,man,train,"The person in the image appears to be a male, as indicated by facial features such as the presence of stubble and a hairstyle that is commonly associated with men.",male
+train/men/95.jpg,man,train,The person in the image appears to be a male with short hair.,male
+train/men/96.jpg,man,train,The individual in the image appears to be male.,male
+train/men/97.jpg,man,train,The person in the image appears to be male.,male
+train/men/98.jpg,man,train,The individual in the image appears to be male.,male
+train/men/99.jpg,man,train,The person in the image appears to be male.,male
+train/men/100.jpg,man,train,"The individual in the image appears to be a male with facial hair, wearing casual clothing.",male
+train/men/101.jpg,man,train,The individual in the image appears to be male.,male
+train/men/102.jpg,man,train,The person in the image appears to be male.,male
+train/men/103.jpg,man,train,The individual in the image appears to be male.,male
+train/men/104.jpg,man,train,"The person in the image appears to be male, as indicated by visible facial features such as stubble, eyeglasses, and hairstyle commonly associated with male individuals.",male
+train/men/105.jpg,man,train,"The person in the image appears to be a male with facial hair, wearing traditional attire that might suggest cultural or religious significance, possibly from the Middle East given the style of clothing and headwear.",male
+train/men/106.jpg,man,train,The person in the image appears to be male.,male
+train/men/107.jpg,man,train,"The person in the image appears to be male, as indicated by the facial features such as the beard and mustache, which are typically associated with men.",male
+train/men/108.jpg,man,train,"The person in the image appears to be male, based on the visible facial features such as the presence of a beard, mustache, and the typical hairstyle associated with men.",male
+train/men/109.jpg,man,train,"The person in the image appears to be male, based on facial features such as the presence of visible stubble, the shape of the jawline, and other physical characteristics that are commonly associated with adult males.",male
+test/men/110.jpg,man,test,"The individual in the image appears to be a male with short hair, wearing casual attire.",male
+test/men/111.jpg,man,test,"The individual in the image appears to be male based on physical features such as facial hair, broad shoulders, and other characteristics commonly associated with males.",male
+test/men/112.jpg,man,test,"The individual in the image appears to be male based on visible characteristics such as facial hair, chin stubble, and the overall appearance.",male
+test/men/113.jpg,man,test,The person in the image appears to be male.,male
+test/men/114.jpg,man,test,The individual in the image appears to be a male.,male
+test/men/115.jpg,man,test,"The person in the image appears to be male based on facial features commonly associated with men, such as the shape of the face, beard stubble, and eyebrow structure.",male
+test/men/116.jpg,man,test,"The person in the image appears to be a male with facial hair, wearing a coat over a white top, and sitting indoors.",male
+test/men/117.jpg,man,test,"The person in the image appears to be male, based on features such as facial hair, hairstyle, and clothing that are typically associated with men's fashion.",male
+test/men/118.jpg,man,test,"The person in the image appears to be a male, as indicated by their facial features such as the beard and hairstyle.",male
+test/men/119.jpg,man,test,"The person in the image appears to be a male with facial hair, wearing a hat and a black t-shirt.",male
+test/men/120.jpg,man,test,"The individual in the image appears to be a male with facial hair, including a beard and mustache.",male
+test/men/121.jpg,man,test,"The person in the image appears to be a male with short hair, wearing a graphic t-shirt.",male
+test/men/122.jpg,man,test,The individual in the image is male.,male
+test/men/123.jpg,man,test,The person in the image appears to be a male.,male
+test/men/124.jpg,man,test,"The individual in the image appears to be a man based on visible features such as facial hair, clothing, and hairstyle.",man
+test/men/125.jpg,man,test,The individual in the image appears to be male.,male
+test/men/126.jpg,man,test,"The individual in the image appears to be male, as indicated by the facial features such as the presence of stubble, beard growth, and the shape of the face which are typically associated with male characteristics.",male
+test/men/127.jpg,man,test,"The person in the image appears to be male based on the facial features visible, such as the presence of facial hair and the shape of the face which is typically associated with male characteristics.",male
+test/men/128.jpg,man,test,The person in the image is a male.,male
+test/men/129.jpg,man,test,The individual in the image appears to be male.,male
+test/men/130.jpg,man,test,The person in the image appears to be male.,male
+test/men/131.jpg,man,test,The person in the image appears to be a male.,male
+test/men/132.jpg,man,test,"The person in the image appears to be a male with facial hair, wearing traditional South Asian attire.",male
+test/men/133.jpg,man,test,"The person in the image appears to be a male with facial hair, wearing a button-up shirt.",male
+test/men/134.jpg,man,test,The person in the image appears to be a male.,male
+test/men/135.jpg,man,test,"The individual in the image appears to be male, as indicated by the facial features such as the presence of stubble, a beard, and a distinctly masculine appearance.",male
+test/men/136.jpg,man,test,The individual in the image appears to be male.,male
+test/men/137.jpg,man,test,The person in the image appears to be a male.,male
+test/men/138.jpg,man,test,The person in the image appears to be a male.,male
+test/men/139.jpg,man,test,The person in the image is a male.,male
+test/men/140.jpg,man,test,The person in the image is a man.,man
+test/men/141.jpg,man,test,"The person in the image appears to be male, as indicated by facial features such as the beard and the overall appearance which are typically associated with men.",male
+test/men/142.jpg,man,test,The person in the image appears to be a male with facial hair.,male
+test/men/143.jpg,man,test,"The person in the image appears to be a male with facial hair, wearing casual clothing.",male
+test/men/144.jpg,man,test,The person in the image appears to be male.,male
+test/men/145.jpg,man,test,The person in the image appears to be male.,male
+test/men/146.jpg,man,test,"The person in the image appears to be male, based on facial features such as the beard, eyebrows, and hairstyle.",male
+test/men/147.jpg,man,test,"The individual in the image appears to be male, based on facial features that are typically associated with males such as the beard and hairstyle.",male
+test/men/148.jpg,man,test,"The person in the image appears to be male, as indicated by facial features and clothing typically associated with men.",male
+test/men/149.jpg,man,test,"The person in the image appears to be a male based on typical physical characteristics such as facial features, hair style, and clothing.",male
